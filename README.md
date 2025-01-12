@@ -114,11 +114,9 @@ Contributions are welcome! Feel free to open an **issue** or submit a **pull req
 ## 📞 **Contact**
 - **Author**: Gautam Rahul
 - **Email**: gautamrahul2003las@gmail.com
-- **GitHub**: [https://github.com/gautam_rahul_09](https://github.com/gautam_rahul_09)
+- **GitHub**: [https://github.com/gautam-rahul-09](https://github.com/gautam-rahul-09)
 
----
 
-## 🎥 **Demo**
 
 
 
